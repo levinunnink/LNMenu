@@ -5,7 +5,7 @@ A NSView based replacement for NSMenu.
 
 #### Why?
 
-In most cases, NSMenu works great. However we ran into limitations with Droplr where we wanted to do more fancy stuff with our menu like showing a popover when you hovered over certain menu items, etc, similar to how Spotlight search works. This proved to be impossible with NSMenu. There just wasn't enough control. So I did the drudgery of writing a view-based replacement for NSMenu and now I'm sharing it with you.
+In most cases, NSMenu works great. However we ran into limitations with [Droplr](https://droplr.com) where we wanted to do more fancy stuff with our menu like showing a popover when you hovered over certain menu items, etc, similar to how Spotlight search works. This proved to be impossible with NSMenu. There just wasn't enough control. So I did the drudgery of writing a view-based replacement for NSMenu and now I'm sharing it with you.
 
 #### Usage?
 

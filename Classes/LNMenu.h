@@ -64,6 +64,7 @@
 @interface LNMenu : NSPanel <NSWindowDelegate>
 
 #pragma mark Public properties
+
 @property (nonatomic, assign) id<LNMenuDelegate> menuDelegate;
 @property (nonatomic, assign) NSInteger          selectedIndex;
 
